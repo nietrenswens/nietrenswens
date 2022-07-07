@@ -47,3 +47,5 @@ My name is Rens/Wens, I am a 'fullstack' developer with a great passion for lear
     </td>
   </tr>
 </table>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nietrenswens)](https://github.com/nietrenswens/github-profile-trophy)
