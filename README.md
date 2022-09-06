@@ -26,7 +26,7 @@ My name is Rens/Wens, I am a 'fullstack' developer with a great passion for lear
     </td>
     <td align="center">
       <a href="https://github.com/calvinhofman">
-        <img src="https://panels-images.twitch.tv/panel-165583853-image-fe238e64-3a80-4bc8-99e7-f3ff04ea8b66" width="100px;" alt="Ir1d"/>
+        <img src="https://avatars.githubusercontent.com/u/60505346?v=4" width="100px;" alt="Ir1d"/>
       </a>
       <br />
       <a href="https://github.com/calvinhofman">Calvin</a>
@@ -44,6 +44,13 @@ My name is Rens/Wens, I am a 'fullstack' developer with a great passion for lear
       </a>
       <br />
       <a href="https://github.com/SANDR7">Sander van Ast</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jasperdoit">
+        <img src="https://avatars.githubusercontent.com/u/20024175" width="100px;" alt="Ir1d"/>
+      </a>
+      <br />
+      <a href="https://github.com/jasperdoit">Jasperdoit</a>
     </td>
   </tr>
 </table>
