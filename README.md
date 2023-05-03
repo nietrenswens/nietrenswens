@@ -1,7 +1,9 @@
 ### Hey hey hey!
-My name is Rens/Wens, I am a 'fullstack' developer with a great passion for learning new things. I am a computer sciences student at Hogeschool Rotterdam and always up for a challenge!
+Hello and welcome to my Github profile! My name is Rens, and I am a 19-year-old Computer Science student at Hogeschool Rotterdam. When I'm not busy with school or scouting, you can usually find me tinkering with computers, building new systems, and exploring the latest technologies.
 
+As a self-proclaimed code wizard, I'm always on the lookout for new challenges and exciting projects to work on. Whether it's building a new app, contributing to an open-source project, or just experimenting with new coding languages, I'm always eager to learn and grow as a programmer.
 
+But don't let my "wizard" status intimidate you - I'm always happy to collaborate and learn from others. So feel free to reach out and say hello! Let's build something awesome together. And hey, if you need any help with your code, just give me a call. After all, they don't call me a code wizard for nothing 😉
 
 ## &#x1f4c8; GitHub Stats
 
@@ -56,3 +58,6 @@ My name is Rens/Wens, I am a 'fullstack' developer with a great passion for lear
 </table>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nietrenswens)](https://github.com/nietrenswens/github-profile-trophy)
+
+## Kirb
+[![kirb]](https://m.media-amazon.com/images/I/51Nap8QiAGL._AC_UF1000,1000_QL80_.jpg)
