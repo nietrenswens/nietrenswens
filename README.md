@@ -60,4 +60,4 @@ But don't let my "wizard" status intimidate you - I'm always happy to collaborat
 [![trophy](https://github-profile-trophy.vercel.app/?username=nietrenswens)](https://github.com/nietrenswens/github-profile-trophy)
 
 ## Kirb
-![Kirb](https://m.media-amazon.com/images/I/51Nap8QiAGL._AC_UF1000,1000_QL80_.jpg)
+<img src="https://m.media-amazon.com/images/I/51Nap8QiAGL._AC_UF1000,1000_QL80_.jpg" height="400px;" alt="kirb">
