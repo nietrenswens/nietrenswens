@@ -5,6 +5,8 @@ As a self-proclaimed code wizard, I'm always on the lookout for new challenges a
 
 But don't let my "wizard" status intimidate you - I'm always happy to collaborate and learn from others. So feel free to reach out and say hello! Let's build something awesome together. And hey, if you need any help with your code, just give me a call. After all, they don't call me a code wizard for nothing 😉
 
+<img src="https://profile-counter.glitch.me/nietrenswens/count.svg?" alt="profile visit counter">
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/nietrenswens">
